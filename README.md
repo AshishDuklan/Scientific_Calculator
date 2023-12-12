@@ -1,2 +1,2 @@
-# Scientific_Calculator
-This is the scientific calculator which will help user to perform a complex scientific calculations. 
+# scientific-cal-iitp
+In this repository we will be working on scientific calculator having some basic functionalities like addition, subtraction, etc.
